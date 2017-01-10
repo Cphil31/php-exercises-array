@@ -21,4 +21,3 @@ for ($i=0; $i<$tailleArray; $i++) {
 	echo $array[$i].'<br/>';
 }
  ?>
-
