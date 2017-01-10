@@ -1,7 +1,6 @@
 <?php 
 
 $array = array(
-
 "02" => "Aisne",
 "59" => "Nord",
 "60" => "Oise",
